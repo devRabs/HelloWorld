@@ -64,6 +64,7 @@ public class Home {
 				System.out.println(studentEntry.getValue());
 			}
 
+			
 			System.out.println("Teachers are : ");
 			Iterator iteTeacher = teacherMap.entrySet().iterator();
 			while(iteTeacher.hasNext())
